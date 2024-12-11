@@ -1,3 +1,0 @@
-Arquivo de: Clientes
-otavio,procopio,2,44
-tais,proco,2,4
