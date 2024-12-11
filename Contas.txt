@@ -1,0 +1,5 @@
+Arquivo de: Contas
+ContaCorrente{numero=1, cliente=Cliente{nome='otavio', email='procopio', telefone='2', idade=44}}
+ContaPoupanca{numero=2, cliente=Cliente{nome='otavio', email='procopio', telefone='2', idade=44}}
+ContaCorrente{numero=3, cliente=Cliente{nome='tais', email='proco', telefone='2', idade=4}}
+ContaPoupanca{numero=4, cliente=Cliente{nome='tais', email='proco', telefone='2', idade=4}}
